@@ -1,4 +1,4 @@
-# taxi_app
+siphoin_market_vue_app
 
 ## Project setup
 ```
